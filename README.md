@@ -350,8 +350,9 @@
             </div>
 
             <figure class="mt-8 text-center">
-                <img src="https://placehold.co/400x250/ffc300/333?text=Jar+of+Honey" 
+                <img src="https://openclipart.org/image/2400px/svg_to_png/162139/Honey-Jar-1.png" 
                      alt="A clear glass jar filled with golden, freshly harvested honey." 
+                     width="300px" height="300px"
                      class="mx-auto rounded-lg shadow-md border-2 border-yellow-500"
                      onerror="this.src='https://placehold.co/400x250/ffc300/333?text=Honey+Jar+Placeholder';"
                 >
