@@ -468,7 +468,7 @@
             </address>
 
             <figure class="mt-8 text-center">
-                <img src="https://placehold.co/400x250/a0522d/FFF?text=Honey+Bee+on+Flower" 
+                <img src="https://img.clipart-library.com/24/3172cb07-d375-41b1-9d1f-7c18568adc5a.png" 
                      alt="A single honey bee collecting pollen from a yellow flower in a garden." 
                      class="mx-auto rounded-lg shadow-md border-2 border-amber-800"
                      onerror="this.src='https://placehold.co/400x250/a0522d/FFF?text=Bee+Placeholder';"
