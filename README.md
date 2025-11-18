@@ -438,8 +438,9 @@
             </script>
             
             <figure class="mt-8 text-center">
-                <img src="https://placehold.co/400x250/795548/FFF?text=Community+Beekeepers" 
+                <img src="https://static.vecteezy.com/system/resources/previews/036/151/797/non_2x/beekeeper-in-suit-hat-at-beehive-with-smoker-vector.jpg" 
                      alt="A small group of beekeepers talking around an active hive in a community garden." 
+                     width="200px" height="200px"
                      class="mx-auto rounded-lg shadow-md border-2 border-amber-800"
                      onerror="this.src='https://placehold.co/400x250/795548/FFF?text=Community+Placeholder';"
                 >
