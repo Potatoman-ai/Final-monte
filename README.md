@@ -142,8 +142,9 @@
                 
                 <figure class="md:w-1/2 mt-6 md:mt-0">
                     <!-- Image, optimized and with alt text -->
-                    <img src="https://placehold.co/600x400/795548/FFF?text=Healthy+Beehive" 
+                    <img src="https://toppng.com/uploads/preview/beehive-clipart-transparent-honey-bee-hive-clip-art-11562900111vlwvhtdayf.png" 
                          alt="A robust, natural-colored wooden beehive situated in a green meadow." 
+                         width="200px" height="200px"
                          class="rounded-lg shadow-xl w-full h-auto object-cover border-4 border-amber-900"
                          onerror="this.src='https://placehold.co/600x400/795548/FFF?text=Beehive+Image';"
                     >
