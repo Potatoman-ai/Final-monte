@@ -329,13 +329,7 @@
             <!-- Video/Multimedia Element -->
             <div class="relative overflow-hidden w-full" style="padding-top: 56.25%">
                 <!-- Embedded YouTube Player (Placeholder for a relevant beekeeping video) -->
-                <iframe class="absolute top-0 left-0 w-full h-full rounded-lg shadow-xl"
-                        src="https://www.youtube.com/embed/5UaK5w3n2c0?controls=0" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                        allowfullscreen
-                        title="Video Guide: Steps for Extracting Honey from the Hive">
-                </iframe>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/4O1IQkhVPAI?si=wf1BCmhAJaD09mCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             
             <figure class="mt-4 text-center">
