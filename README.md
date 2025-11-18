@@ -300,6 +300,7 @@
                     <figure class="mt-6">
                         <img src="https://static.vecteezy.com/system/resources/previews/036/151/797/non_2x/beekeeper-in-suit-hat-at-beehive-with-smoker-vector.jpg" 
                              alt="A beekeeper using a small microscope to count Varroa mites." 
+                             width="200px" height="200px"
                              class="rounded-lg shadow w-full h-auto"
                              onerror="this.src='https://placehold.co/300x200/a0522d/FFF?text=Mite+Count+Placeholder';"
                         >
