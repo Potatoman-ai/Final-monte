@@ -205,8 +205,9 @@
             </ol>
             
             <figure class="mt-8 text-center">
-                <img src="https://placehold.co/400x250/ffc300/333?text=Beekeeper+with+Smoker" 
+                <img src="https://static.vecteezy.com/system/resources/previews/036/151/797/non_2x/beekeeper-in-suit-hat-at-beehive-with-smoker-vector.jpg" 
                      alt="A gloved hand using a stainless steel bee smoker near a hive entrance." 
+                     width="200px" height="200px"
                      class="mx-auto rounded-lg shadow-md border-2 border-yellow-500"
                      onerror="this.src='https://placehold.co/400x250/ffc300/333?text=Smoker+Image+Placeholder';"
                 >
